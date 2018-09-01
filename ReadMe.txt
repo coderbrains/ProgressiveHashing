@@ -1,0 +1,2 @@
+This project is based on indexing of objects/records in a file using Hashing Progressive Overflow technique. 
+The Language used is JAVA and IDE is NetBeans-8.0.1 . Swing class was used to build the front End of the application. 
